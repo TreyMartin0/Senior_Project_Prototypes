@@ -1,0 +1,2907 @@
+[
+  {
+    "clientid": 100000,
+    "audiogramid": 100000,
+    "date": "2014-04-15"
+  },
+  {
+    "clientid": 100003,
+    "audiogramid": 100002,
+    "date": "2014-07-16"
+  },
+  {
+    "clientid": 100005,
+    "audiogramid": 100004,
+    "date": "2014-03-28"
+  },
+  {
+    "clientid": 100007,
+    "audiogramid": 100005,
+    "date": "2013-10-15"
+  },
+  {
+    "clientid": 100008,
+    "audiogramid": 100006,
+    "date": "2013-09-16"
+  },
+  {
+    "clientid": 100009,
+    "audiogramid": 100007,
+    "date": "2014-09-10"
+  },
+  {
+    "clientid": 100017,
+    "audiogramid": 100014,
+    "date": "2014-11-04"
+  },
+  {
+    "clientid": 100018,
+    "audiogramid": 100015,
+    "date": "2014-12-19"
+  },
+  {
+    "clientid": 100019,
+    "audiogramid": 100016,
+    "date": "2014-07-18"
+  },
+  {
+    "clientid": 100022,
+    "audiogramid": 100019,
+    "date": "2013-11-27"
+  },
+  {
+    "clientid": 100023,
+    "audiogramid": 100020,
+    "date": "2014-01-16"
+  },
+  {
+    "clientid": 100027,
+    "audiogramid": 100024,
+    "date": "2014-10-21"
+  },
+  {
+    "clientid": 100028,
+    "audiogramid": 100025,
+    "date": "2014-04-02"
+  },
+  {
+    "clientid": 100029,
+    "audiogramid": 100026,
+    "date": "2014-02-04"
+  },
+  {
+    "clientid": 100031,
+    "audiogramid": 100028,
+    "date": "2013-11-20"
+  },
+  {
+    "clientid": 100035,
+    "audiogramid": 100032,
+    "date": "2014-07-15"
+  },
+  {
+    "clientid": 100039,
+    "audiogramid": 100036,
+    "date": "2014-12-10"
+  },
+  {
+    "clientid": 100041,
+    "audiogramid": 100038,
+    "date": "2014-03-19"
+  },
+  {
+    "clientid": 100042,
+    "audiogramid": 100039,
+    "date": "2014-01-09"
+  },
+  {
+    "clientid": 100044,
+    "audiogramid": 100041,
+    "date": "2014-06-30"
+  },
+  {
+    "clientid": 100045,
+    "audiogramid": 100042,
+    "date": "2013-12-27"
+  },
+  {
+    "clientid": 100046,
+    "audiogramid": 100043,
+    "date": "2013-11-27"
+  },
+  {
+    "clientid": 100047,
+    "audiogramid": 100044,
+    "date": "2014-01-06"
+  },
+  {
+    "clientid": 100048,
+    "audiogramid": 100045,
+    "date": "2014-01-13"
+  },
+  {
+    "clientid": 100049,
+    "audiogramid": 100046,
+    "date": "2014-01-14"
+  },
+  {
+    "clientid": 100050,
+    "audiogramid": 100047,
+    "date": "2013-10-02"
+  },
+  {
+    "clientid": 100054,
+    "audiogramid": 100050,
+    "date": "2015-02-25"
+  },
+  {
+    "clientid": 100055,
+    "audiogramid": 100051,
+    "date": "2013-10-31"
+  },
+  {
+    "clientid": 100056,
+    "audiogramid": 100052,
+    "date": "2014-01-07"
+  },
+  {
+    "clientid": 100057,
+    "audiogramid": 100053,
+    "date": "2014-01-13"
+  },
+  {
+    "clientid": 100058,
+    "audiogramid": 100054,
+    "date": "2014-10-21"
+  },
+  {
+    "clientid": 100059,
+    "audiogramid": 100055,
+    "date": "2013-10-11"
+  },
+  {
+    "clientid": 100060,
+    "audiogramid": 100056,
+    "date": "2013-11-11"
+  },
+  {
+    "clientid": 100061,
+    "audiogramid": 100057,
+    "date": "2014-03-17"
+  },
+  {
+    "clientid": 100062,
+    "audiogramid": 100058,
+    "date": "2015-03-18"
+  },
+  {
+    "clientid": 100064,
+    "audiogramid": 100059,
+    "date": "2014-01-06"
+  },
+  {
+    "clientid": 100065,
+    "audiogramid": 100060,
+    "date": "2013-12-03"
+  },
+  {
+    "clientid": 100066,
+    "audiogramid": 100061,
+    "date": "2014-09-09"
+  },
+  {
+    "clientid": 100067,
+    "audiogramid": 100062,
+    "date": "2013-11-26"
+  },
+  {
+    "clientid": 100068,
+    "audiogramid": 100063,
+    "date": "2013-10-21"
+  },
+  {
+    "clientid": 100069,
+    "audiogramid": 100064,
+    "date": "2013-11-15"
+  },
+  {
+    "clientid": 100071,
+    "audiogramid": 100066,
+    "date": "2014-02-27"
+  },
+  {
+    "clientid": 100073,
+    "audiogramid": 100068,
+    "date": "2014-06-03"
+  },
+  {
+    "clientid": 100078,
+    "audiogramid": 100073,
+    "date": "2013-11-19"
+  },
+  {
+    "clientid": 100079,
+    "audiogramid": 100074,
+    "date": "2015-02-03"
+  },
+  {
+    "clientid": 100081,
+    "audiogramid": 100076,
+    "date": "2014-05-07"
+  },
+  {
+    "clientid": 100082,
+    "audiogramid": 100077,
+    "date": "2014-01-15"
+  },
+  {
+    "clientid": 100083,
+    "audiogramid": 100078,
+    "date": "2014-02-27"
+  },
+  {
+    "clientid": 100084,
+    "audiogramid": 100079,
+    "date": "2014-08-06"
+  },
+  {
+    "clientid": 100085,
+    "audiogramid": 100080,
+    "date": "2014-07-01"
+  },
+  {
+    "clientid": 100086,
+    "audiogramid": 100081,
+    "date": "2014-07-22"
+  },
+  {
+    "clientid": 100087,
+    "audiogramid": 100082,
+    "date": "2014-01-02"
+  },
+  {
+    "clientid": 100089,
+    "audiogramid": 100084,
+    "date": "2014-08-18"
+  },
+  {
+    "clientid": 100092,
+    "audiogramid": 100087,
+    "date": "2015-01-28"
+  },
+  {
+    "clientid": 100093,
+    "audiogramid": 100088,
+    "date": "2014-04-23"
+  },
+  {
+    "clientid": 100094,
+    "audiogramid": 100089,
+    "date": "2014-01-21"
+  },
+  {
+    "clientid": 100096,
+    "audiogramid": 100091,
+    "date": "2014-12-10"
+  },
+  {
+    "clientid": 100097,
+    "audiogramid": 100092,
+    "date": "2014-01-16"
+  },
+  {
+    "clientid": 100100,
+    "audiogramid": 100095,
+    "date": "2014-02-10"
+  },
+  {
+    "clientid": 100102,
+    "audiogramid": 100096,
+    "date": "2013-10-14"
+  },
+  {
+    "clientid": 100104,
+    "audiogramid": 100097,
+    "date": "2014-04-25"
+  },
+  {
+    "clientid": 100105,
+    "audiogramid": 100098,
+    "date": "2014-04-15"
+  },
+  {
+    "clientid": 100106,
+    "audiogramid": 100099,
+    "date": "2014-12-02"
+  },
+  {
+    "clientid": 100108,
+    "audiogramid": 100101,
+    "date": "2014-04-09"
+  },
+  {
+    "clientid": 100109,
+    "audiogramid": 100102,
+    "date": "2015-01-20"
+  },
+  {
+    "clientid": 100110,
+    "audiogramid": 100103,
+    "date": "2015-03-06"
+  },
+  {
+    "clientid": 100111,
+    "audiogramid": 100104,
+    "date": "2013-10-30"
+  },
+  {
+    "clientid": 100112,
+    "audiogramid": 100105,
+    "date": "2014-03-18"
+  },
+  {
+    "clientid": 100113,
+    "audiogramid": 100106,
+    "date": "2015-01-28"
+  },
+  {
+    "clientid": 100114,
+    "audiogramid": 100107,
+    "date": "2014-03-20"
+  },
+  {
+    "clientid": 100115,
+    "audiogramid": 100108,
+    "date": "2013-11-12"
+  },
+  {
+    "clientid": 100116,
+    "audiogramid": 100109,
+    "date": "2014-03-31"
+  },
+  {
+    "clientid": 100117,
+    "audiogramid": 100110,
+    "date": "2015-02-06"
+  },
+  {
+    "clientid": 100118,
+    "audiogramid": 100111,
+    "date": "2015-03-12"
+  },
+  {
+    "clientid": 100120,
+    "audiogramid": 100113,
+    "date": "2014-04-16"
+  },
+  {
+    "clientid": 100122,
+    "audiogramid": 100115,
+    "date": "2014-07-07"
+  },
+  {
+    "clientid": 100124,
+    "audiogramid": 100116,
+    "date": "2014-04-11"
+  },
+  {
+    "clientid": 100125,
+    "audiogramid": 100117,
+    "date": "2014-03-27"
+  },
+  {
+    "clientid": 100128,
+    "audiogramid": 100120,
+    "date": "2014-01-21"
+  },
+  {
+    "clientid": 100130,
+    "audiogramid": 100122,
+    "date": "2014-04-15"
+  },
+  {
+    "clientid": 100132,
+    "audiogramid": 100124,
+    "date": "2014-04-01"
+  },
+  {
+    "clientid": 100133,
+    "audiogramid": 100125,
+    "date": "2014-07-02"
+  },
+  {
+    "clientid": 100134,
+    "audiogramid": 100126,
+    "date": "2013-10-23"
+  },
+  {
+    "clientid": 100135,
+    "audiogramid": 100127,
+    "date": "2014-12-17"
+  },
+  {
+    "clientid": 100138,
+    "audiogramid": 100130,
+    "date": "2014-01-17"
+  },
+  {
+    "clientid": 100139,
+    "audiogramid": 100131,
+    "date": "2014-06-30"
+  },
+  {
+    "clientid": 100140,
+    "audiogramid": 100132,
+    "date": "2014-01-21"
+  },
+  {
+    "clientid": 100141,
+    "audiogramid": 100133,
+    "date": "2014-04-08"
+  },
+  {
+    "clientid": 100143,
+    "audiogramid": 100135,
+    "date": "2014-03-18"
+  },
+  {
+    "clientid": 100145,
+    "audiogramid": 100137,
+    "date": "2014-08-13"
+  },
+  {
+    "clientid": 100146,
+    "audiogramid": 100138,
+    "date": "2014-11-20"
+  },
+  {
+    "clientid": 100147,
+    "audiogramid": 100139,
+    "date": "2014-05-05"
+  },
+  {
+    "clientid": 100148,
+    "audiogramid": 100140,
+    "date": "2014-11-19"
+  },
+  {
+    "clientid": 100149,
+    "audiogramid": 100141,
+    "date": "2014-04-30"
+  },
+  {
+    "clientid": 100150,
+    "audiogramid": 100142,
+    "date": "2015-01-14"
+  },
+  {
+    "clientid": 100151,
+    "audiogramid": 100143,
+    "date": "2015-01-12"
+  },
+  {
+    "clientid": 100153,
+    "audiogramid": 100145,
+    "date": "2014-09-30"
+  },
+  {
+    "clientid": 100156,
+    "audiogramid": 100148,
+    "date": "2014-03-26"
+  },
+  {
+    "clientid": 100157,
+    "audiogramid": 100149,
+    "date": "2014-07-15"
+  },
+  {
+    "clientid": 100158,
+    "audiogramid": 100150,
+    "date": "2014-03-26"
+  },
+  {
+    "clientid": 100159,
+    "audiogramid": 100151,
+    "date": "2013-11-15"
+  },
+  {
+    "clientid": 100161,
+    "audiogramid": 100153,
+    "date": "2014-09-26"
+  },
+  {
+    "clientid": 100163,
+    "audiogramid": 100155,
+    "date": "2015-03-03"
+  },
+  {
+    "clientid": 100164,
+    "audiogramid": 100156,
+    "date": "2014-05-14"
+  },
+  {
+    "clientid": 100167,
+    "audiogramid": 100158,
+    "date": "2014-05-08"
+  },
+  {
+    "clientid": 100168,
+    "audiogramid": 100159,
+    "date": "2014-12-08"
+  },
+  {
+    "clientid": 100169,
+    "audiogramid": 100160,
+    "date": "2014-07-03"
+  },
+  {
+    "clientid": 100170,
+    "audiogramid": 100161,
+    "date": "2013-09-23"
+  },
+  {
+    "clientid": 100172,
+    "audiogramid": 100163,
+    "date": "2013-11-26"
+  },
+  {
+    "clientid": 100173,
+    "audiogramid": 100164,
+    "date": "2014-05-15"
+  },
+  {
+    "clientid": 100175,
+    "audiogramid": 100166,
+    "date": "2014-12-03"
+  },
+  {
+    "clientid": 100176,
+    "audiogramid": 100167,
+    "date": "2014-05-05"
+  },
+  {
+    "clientid": 100177,
+    "audiogramid": 100168,
+    "date": "2014-05-14"
+  },
+  {
+    "clientid": 100178,
+    "audiogramid": 100169,
+    "date": "2014-05-14"
+  },
+  {
+    "clientid": 100179,
+    "audiogramid": 100170,
+    "date": "2013-10-09"
+  },
+  {
+    "clientid": 100181,
+    "audiogramid": 100172,
+    "date": "2013-09-30"
+  },
+  {
+    "clientid": 100182,
+    "audiogramid": 100173,
+    "date": "2015-03-04"
+  },
+  {
+    "clientid": 100183,
+    "audiogramid": 100174,
+    "date": "2014-07-01"
+  },
+  {
+    "clientid": 100188,
+    "audiogramid": 100179,
+    "date": "2014-06-27"
+  },
+  {
+    "clientid": 100189,
+    "audiogramid": 100180,
+    "date": "2015-02-24"
+  },
+  {
+    "clientid": 100198,
+    "audiogramid": 100189,
+    "date": "2014-04-03"
+  },
+  {
+    "clientid": 100206,
+    "audiogramid": 100197,
+    "date": "2014-05-12"
+  },
+  {
+    "clientid": 100207,
+    "audiogramid": 100198,
+    "date": "2014-05-07"
+  },
+  {
+    "clientid": 100208,
+    "audiogramid": 100199,
+    "date": "2014-07-14"
+  },
+  {
+    "clientid": 100210,
+    "audiogramid": 100201,
+    "date": "2014-03-28"
+  },
+  {
+    "clientid": 100212,
+    "audiogramid": 100203,
+    "date": "2014-11-18"
+  },
+  {
+    "clientid": 100214,
+    "audiogramid": 100205,
+    "date": "2014-05-09"
+  },
+  {
+    "clientid": 100215,
+    "audiogramid": 100206,
+    "date": "2013-10-22"
+  },
+  {
+    "clientid": 100216,
+    "audiogramid": 100207,
+    "date": "2015-03-09"
+  },
+  {
+    "clientid": 100218,
+    "audiogramid": 100209,
+    "date": "2014-05-13"
+  },
+  {
+    "clientid": 100220,
+    "audiogramid": 100211,
+    "date": "2014-08-07"
+  },
+  {
+    "clientid": 100221,
+    "audiogramid": 100212,
+    "date": "2014-06-25"
+  },
+  {
+    "clientid": 100223,
+    "audiogramid": 100214,
+    "date": "2014-04-17"
+  },
+  {
+    "clientid": 100224,
+    "audiogramid": 100215,
+    "date": "2015-02-23"
+  },
+  {
+    "clientid": 100225,
+    "audiogramid": 100216,
+    "date": "2014-03-27"
+  },
+  {
+    "clientid": 100226,
+    "audiogramid": 100217,
+    "date": "2014-03-24"
+  },
+  {
+    "clientid": 100228,
+    "audiogramid": 100219,
+    "date": "2014-03-25"
+  },
+  {
+    "clientid": 100229,
+    "audiogramid": 100220,
+    "date": "2015-01-28"
+  },
+  {
+    "clientid": 100230,
+    "audiogramid": 100221,
+    "date": "2014-06-26"
+  },
+  {
+    "clientid": 100231,
+    "audiogramid": 100222,
+    "date": "2014-06-26"
+  },
+  {
+    "clientid": 100233,
+    "audiogramid": 100223,
+    "date": "2014-07-24"
+  },
+  {
+    "clientid": 100234,
+    "audiogramid": 100224,
+    "date": "2014-05-21"
+  },
+  {
+    "clientid": 100235,
+    "audiogramid": 100225,
+    "date": "2013-10-30"
+  },
+  {
+    "clientid": 100236,
+    "audiogramid": 100226,
+    "date": "2014-04-04"
+  },
+  {
+    "clientid": 100237,
+    "audiogramid": 100227,
+    "date": "2014-06-24"
+  },
+  {
+    "clientid": 100239,
+    "audiogramid": 100229,
+    "date": "2013-08-26"
+  },
+  {
+    "clientid": 100240,
+    "audiogramid": 100230,
+    "date": "2014-12-19"
+  },
+  {
+    "clientid": 100252,
+    "audiogramid": 100240,
+    "date": "2014-06-05"
+  },
+  {
+    "clientid": 100255,
+    "audiogramid": 100241,
+    "date": "2013-12-04"
+  },
+  {
+    "clientid": 100262,
+    "audiogramid": 100248,
+    "date": "2014-05-22"
+  },
+  {
+    "clientid": 100263,
+    "audiogramid": 100249,
+    "date": "2014-06-02"
+  },
+  {
+    "clientid": 100270,
+    "audiogramid": 100256,
+    "date": "2014-12-18"
+  },
+  {
+    "clientid": 100273,
+    "audiogramid": 100259,
+    "date": "2013-11-13"
+  },
+  {
+    "clientid": 100274,
+    "audiogramid": 100260,
+    "date": "2014-04-11"
+  },
+  {
+    "clientid": 100277,
+    "audiogramid": 100262,
+    "date": "2013-11-29"
+  },
+  {
+    "clientid": 100282,
+    "audiogramid": 100267,
+    "date": "2015-03-04"
+  },
+  {
+    "clientid": 100285,
+    "audiogramid": 100269,
+    "date": "2014-05-14"
+  },
+  {
+    "clientid": 100286,
+    "audiogramid": 100270,
+    "date": "2014-06-30"
+  },
+  {
+    "clientid": 100287,
+    "audiogramid": 100271,
+    "date": "2014-04-17"
+  },
+  {
+    "clientid": 100292,
+    "audiogramid": 100276,
+    "date": "2014-12-02"
+  },
+  {
+    "clientid": 100293,
+    "audiogramid": 100277,
+    "date": "2014-05-20"
+  },
+  {
+    "clientid": 100294,
+    "audiogramid": 100278,
+    "date": "2014-08-07"
+  },
+  {
+    "clientid": 100295,
+    "audiogramid": 100279,
+    "date": "2014-04-04"
+  },
+  {
+    "clientid": 100298,
+    "audiogramid": 100282,
+    "date": "2014-01-06"
+  },
+  {
+    "clientid": 100303,
+    "audiogramid": 100286,
+    "date": "2014-05-28"
+  },
+  {
+    "clientid": 100304,
+    "audiogramid": 100287,
+    "date": "2014-09-23"
+  },
+  {
+    "clientid": 100305,
+    "audiogramid": 100288,
+    "date": "2014-01-07"
+  },
+  {
+    "clientid": 100307,
+    "audiogramid": 100290,
+    "date": "2014-03-10"
+  },
+  {
+    "clientid": 100308,
+    "audiogramid": 100291,
+    "date": "2014-06-27"
+  },
+  {
+    "clientid": 100310,
+    "audiogramid": 100293,
+    "date": "2014-12-15"
+  },
+  {
+    "clientid": 100311,
+    "audiogramid": 100294,
+    "date": "2015-02-27"
+  },
+  {
+    "clientid": 100312,
+    "audiogramid": 100295,
+    "date": "2013-09-24"
+  },
+  {
+    "clientid": 100315,
+    "audiogramid": 100298,
+    "date": "2014-08-22"
+  },
+  {
+    "clientid": 100316,
+    "audiogramid": 100299,
+    "date": "2013-10-08"
+  },
+  {
+    "clientid": 100318,
+    "audiogramid": 100301,
+    "date": "2013-10-01"
+  },
+  {
+    "clientid": 100323,
+    "audiogramid": 100306,
+    "date": "2014-08-14"
+  },
+  {
+    "clientid": 100325,
+    "audiogramid": 100308,
+    "date": "2015-03-11"
+  },
+  {
+    "clientid": 100329,
+    "audiogramid": 100311,
+    "date": "2014-01-14"
+  },
+  {
+    "clientid": 100332,
+    "audiogramid": 100313,
+    "date": "2014-09-02"
+  },
+  {
+    "clientid": 100342,
+    "audiogramid": 100323,
+    "date": "2013-12-03"
+  },
+  {
+    "clientid": 100353,
+    "audiogramid": 100334,
+    "date": "2015-03-09"
+  },
+  {
+    "clientid": 100355,
+    "audiogramid": 100336,
+    "date": "2014-09-30"
+  },
+  {
+    "clientid": 100364,
+    "audiogramid": 100345,
+    "date": "2014-04-02"
+  },
+  {
+    "clientid": 100371,
+    "audiogramid": 100352,
+    "date": "2013-11-11"
+  },
+  {
+    "clientid": 100372,
+    "audiogramid": 100353,
+    "date": "2014-08-11"
+  },
+  {
+    "clientid": 100391,
+    "audiogramid": 100372,
+    "date": "2013-09-02"
+  },
+  {
+    "clientid": 100393,
+    "audiogramid": 100374,
+    "date": "2014-12-16"
+  },
+  {
+    "clientid": 100394,
+    "audiogramid": 100375,
+    "date": "2014-11-11"
+  },
+  {
+    "clientid": 100402,
+    "audiogramid": 100383,
+    "date": "2014-08-05"
+  },
+  {
+    "clientid": 100403,
+    "audiogramid": 100384,
+    "date": "2014-02-27"
+  },
+  {
+    "clientid": 100404,
+    "audiogramid": 100385,
+    "date": "2014-06-04"
+  },
+  {
+    "clientid": 100407,
+    "audiogramid": 100388,
+    "date": "2014-12-05"
+  },
+  {
+    "clientid": 100408,
+    "audiogramid": 100389,
+    "date": "2014-04-02"
+  },
+  {
+    "clientid": 100409,
+    "audiogramid": 100390,
+    "date": "2014-01-03"
+  },
+  {
+    "clientid": 100415,
+    "audiogramid": 100396,
+    "date": "2014-04-02"
+  },
+  {
+    "clientid": 100417,
+    "audiogramid": 100398,
+    "date": "2014-05-13"
+  },
+  {
+    "clientid": 100418,
+    "audiogramid": 100399,
+    "date": "2014-02-13"
+  },
+  {
+    "clientid": 100419,
+    "audiogramid": 100400,
+    "date": "2014-01-13"
+  },
+  {
+    "clientid": 100420,
+    "audiogramid": 100401,
+    "date": "2014-08-14"
+  },
+  {
+    "clientid": 100421,
+    "audiogramid": 100402,
+    "date": "2014-07-15"
+  },
+  {
+    "clientid": 100422,
+    "audiogramid": 100403,
+    "date": "2014-08-05"
+  },
+  {
+    "clientid": 100428,
+    "audiogramid": 100409,
+    "date": "2013-10-08"
+  },
+  {
+    "clientid": 100430,
+    "audiogramid": 100411,
+    "date": "2014-01-24"
+  },
+  {
+    "clientid": 100433,
+    "audiogramid": 100414,
+    "date": "2014-09-22"
+  },
+  {
+    "clientid": 100439,
+    "audiogramid": 100420,
+    "date": "2014-07-18"
+  },
+  {
+    "clientid": 100440,
+    "audiogramid": 100421,
+    "date": "2014-09-16"
+  },
+  {
+    "clientid": 100445,
+    "audiogramid": 100426,
+    "date": "2014-06-16"
+  },
+  {
+    "clientid": 100447,
+    "audiogramid": 100427,
+    "date": "2015-03-12"
+  },
+  {
+    "clientid": 100449,
+    "audiogramid": 100429,
+    "date": "2014-07-22"
+  },
+  {
+    "clientid": 100450,
+    "audiogramid": 100430,
+    "date": "2014-06-16"
+  },
+  {
+    "clientid": 100453,
+    "audiogramid": 100433,
+    "date": "2014-08-08"
+  },
+  {
+    "clientid": 100455,
+    "audiogramid": 100435,
+    "date": "2015-01-21"
+  },
+  {
+    "clientid": 100456,
+    "audiogramid": 100436,
+    "date": "2014-05-21"
+  },
+  {
+    "clientid": 100459,
+    "audiogramid": 100439,
+    "date": "2014-08-22"
+  },
+  {
+    "clientid": 100463,
+    "audiogramid": 100443,
+    "date": "2014-06-17"
+  },
+  {
+    "clientid": 100464,
+    "audiogramid": 100444,
+    "date": "2015-03-11"
+  },
+  {
+    "clientid": 100466,
+    "audiogramid": 100446,
+    "date": "2014-06-18"
+  },
+  {
+    "clientid": 100468,
+    "audiogramid": 100448,
+    "date": "2014-05-27"
+  },
+  {
+    "clientid": 100469,
+    "audiogramid": 100449,
+    "date": "2014-08-05"
+  },
+  {
+    "clientid": 100477,
+    "audiogramid": 100452,
+    "date": "2013-11-11"
+  },
+  {
+    "clientid": 100480,
+    "audiogramid": 100454,
+    "date": "2014-09-03"
+  },
+  {
+    "clientid": 100483,
+    "audiogramid": 100457,
+    "date": "2013-09-25"
+  },
+  {
+    "clientid": 100486,
+    "audiogramid": 100459,
+    "date": "2014-10-30"
+  },
+  {
+    "clientid": 100489,
+    "audiogramid": 100462,
+    "date": "2013-11-11"
+  },
+  {
+    "clientid": 100497,
+    "audiogramid": 100467,
+    "date": "2013-09-13"
+  },
+  {
+    "clientid": 100501,
+    "audiogramid": 100471,
+    "date": "2014-10-29"
+  },
+  {
+    "clientid": 100503,
+    "audiogramid": 100473,
+    "date": "2014-05-12"
+  },
+  {
+    "clientid": 100507,
+    "audiogramid": 100477,
+    "date": "2014-10-17"
+  },
+  {
+    "clientid": 100508,
+    "audiogramid": 100478,
+    "date": "2015-01-27"
+  },
+  {
+    "clientid": 100509,
+    "audiogramid": 100479,
+    "date": "2013-09-02"
+  },
+  {
+    "clientid": 100511,
+    "audiogramid": 100481,
+    "date": "2014-04-23"
+  },
+  {
+    "clientid": 100515,
+    "audiogramid": 100485,
+    "date": "2014-11-25"
+  },
+  {
+    "clientid": 100517,
+    "audiogramid": 100487,
+    "date": "2014-05-26"
+  },
+  {
+    "clientid": 100519,
+    "audiogramid": 100489,
+    "date": "2015-03-27"
+  },
+  {
+    "clientid": 100525,
+    "audiogramid": 100495,
+    "date": "2014-01-10"
+  },
+  {
+    "clientid": 100528,
+    "audiogramid": 100498,
+    "date": "2014-08-27"
+  },
+  {
+    "clientid": 100531,
+    "audiogramid": 100501,
+    "date": "2014-06-26"
+  },
+  {
+    "clientid": 100533,
+    "audiogramid": 100503,
+    "date": "2014-08-01"
+  },
+  {
+    "clientid": 100534,
+    "audiogramid": 100504,
+    "date": "2013-09-20"
+  },
+  {
+    "clientid": 100547,
+    "audiogramid": 100514,
+    "date": "2014-08-20"
+  },
+  {
+    "clientid": 100548,
+    "audiogramid": 100515,
+    "date": "2014-04-09"
+  },
+  {
+    "clientid": 100552,
+    "audiogramid": 100517,
+    "date": "2013-10-14"
+  },
+  {
+    "clientid": 100555,
+    "audiogramid": 100520,
+    "date": "2014-09-24"
+  },
+  {
+    "clientid": 100556,
+    "audiogramid": 100521,
+    "date": "2015-02-12"
+  },
+  {
+    "clientid": 100558,
+    "audiogramid": 100523,
+    "date": "2013-10-18"
+  },
+  {
+    "clientid": 100559,
+    "audiogramid": 100524,
+    "date": "2014-03-03"
+  },
+  {
+    "clientid": 100566,
+    "audiogramid": 100531,
+    "date": "2015-03-16"
+  },
+  {
+    "clientid": 100569,
+    "audiogramid": 100534,
+    "date": "2014-05-19"
+  },
+  {
+    "clientid": 100575,
+    "audiogramid": 100540,
+    "date": "2014-06-25"
+  },
+  {
+    "clientid": 100577,
+    "audiogramid": 100542,
+    "date": "2015-01-16"
+  },
+  {
+    "clientid": 100592,
+    "audiogramid": 100556,
+    "date": "2014-07-22"
+  },
+  {
+    "clientid": 100595,
+    "audiogramid": 100559,
+    "date": "2015-03-24"
+  },
+  {
+    "clientid": 100606,
+    "audiogramid": 100568,
+    "date": "2014-01-06"
+  },
+  {
+    "clientid": 100607,
+    "audiogramid": 100569,
+    "date": "2014-09-05"
+  },
+  {
+    "clientid": 100609,
+    "audiogramid": 100571,
+    "date": "2014-02-17"
+  },
+  {
+    "clientid": 100612,
+    "audiogramid": 100574,
+    "date": "2014-01-14"
+  },
+  {
+    "clientid": 100613,
+    "audiogramid": 100575,
+    "date": "2013-10-10"
+  },
+  {
+    "clientid": 100621,
+    "audiogramid": 100581,
+    "date": "2013-09-24"
+  },
+  {
+    "clientid": 100627,
+    "audiogramid": 100586,
+    "date": "2015-03-16"
+  },
+  {
+    "clientid": 100628,
+    "audiogramid": 100587,
+    "date": "2015-01-05"
+  },
+  {
+    "clientid": 100632,
+    "audiogramid": 100591,
+    "date": "2013-11-29"
+  },
+  {
+    "clientid": 100639,
+    "audiogramid": 100595,
+    "date": "2014-01-13"
+  },
+  {
+    "clientid": 100655,
+    "audiogramid": 100605,
+    "date": "2014-06-25"
+  },
+  {
+    "clientid": 100659,
+    "audiogramid": 100608,
+    "date": "2014-05-09"
+  },
+  {
+    "clientid": 100660,
+    "audiogramid": 100609,
+    "date": "2014-01-08"
+  },
+  {
+    "clientid": 100663,
+    "audiogramid": 100611,
+    "date": "2014-01-23"
+  },
+  {
+    "clientid": 100664,
+    "audiogramid": 100612,
+    "date": "2015-04-08"
+  },
+  {
+    "clientid": 100667,
+    "audiogramid": 100615,
+    "date": "2014-04-04"
+  },
+  {
+    "clientid": 100672,
+    "audiogramid": 100619,
+    "date": "2014-04-14"
+  },
+  {
+    "clientid": 100673,
+    "audiogramid": 100620,
+    "date": "2014-03-31"
+  },
+  {
+    "clientid": 100675,
+    "audiogramid": 100622,
+    "date": "2014-01-07"
+  },
+  {
+    "clientid": 100677,
+    "audiogramid": 100624,
+    "date": "2014-03-28"
+  },
+  {
+    "clientid": 100682,
+    "audiogramid": 100629,
+    "date": "2015-03-19"
+  },
+  {
+    "clientid": 100683,
+    "audiogramid": 100630,
+    "date": "2015-04-08"
+  },
+  {
+    "clientid": 100686,
+    "audiogramid": 100633,
+    "date": "2014-05-13"
+  },
+  {
+    "clientid": 100688,
+    "audiogramid": 100635,
+    "date": "2014-04-14"
+  },
+  {
+    "clientid": 100689,
+    "audiogramid": 100636,
+    "date": "2014-03-25"
+  },
+  {
+    "clientid": 100691,
+    "audiogramid": 100638,
+    "date": "2014-07-14"
+  },
+  {
+    "clientid": 100692,
+    "audiogramid": 100639,
+    "date": "2015-01-26"
+  },
+  {
+    "clientid": 100695,
+    "audiogramid": 100642,
+    "date": "2014-01-13"
+  },
+  {
+    "clientid": 100698,
+    "audiogramid": 100645,
+    "date": "2013-10-01"
+  },
+  {
+    "clientid": 100699,
+    "audiogramid": 100646,
+    "date": "2014-06-23"
+  },
+  {
+    "clientid": 100704,
+    "audiogramid": 100651,
+    "date": "2013-10-31"
+  },
+  {
+    "clientid": 100707,
+    "audiogramid": 100654,
+    "date": "2014-06-17"
+  },
+  {
+    "clientid": 100708,
+    "audiogramid": 100655,
+    "date": "2015-04-02"
+  },
+  {
+    "clientid": 100710,
+    "audiogramid": 100657,
+    "date": "2014-09-01"
+  },
+  {
+    "clientid": 100711,
+    "audiogramid": 100658,
+    "date": "2014-09-23"
+  },
+  {
+    "clientid": 100712,
+    "audiogramid": 100659,
+    "date": "2015-01-27"
+  },
+  {
+    "clientid": 100714,
+    "audiogramid": 100661,
+    "date": "2015-01-22"
+  },
+  {
+    "clientid": 100715,
+    "audiogramid": 100662,
+    "date": "2014-01-06"
+  },
+  {
+    "clientid": 100718,
+    "audiogramid": 100665,
+    "date": "2013-11-19"
+  },
+  {
+    "clientid": 100719,
+    "audiogramid": 100666,
+    "date": "2014-12-19"
+  },
+  {
+    "clientid": 100721,
+    "audiogramid": 100668,
+    "date": "2014-12-02"
+  },
+  {
+    "clientid": 100722,
+    "audiogramid": 100669,
+    "date": "2014-10-31"
+  },
+  {
+    "clientid": 100724,
+    "audiogramid": 100671,
+    "date": "2014-01-15"
+  },
+  {
+    "clientid": 100726,
+    "audiogramid": 100673,
+    "date": "2014-05-28"
+  },
+  {
+    "clientid": 100729,
+    "audiogramid": 100676,
+    "date": "2014-01-23"
+  },
+  {
+    "clientid": 100731,
+    "audiogramid": 100678,
+    "date": "2014-04-03"
+  },
+  {
+    "clientid": 100732,
+    "audiogramid": 100679,
+    "date": "2014-04-07"
+  },
+  {
+    "clientid": 100736,
+    "audiogramid": 100683,
+    "date": "2014-11-07"
+  },
+  {
+    "clientid": 100738,
+    "audiogramid": 100685,
+    "date": "2014-09-05"
+  },
+  {
+    "clientid": 100740,
+    "audiogramid": 100687,
+    "date": "2015-02-24"
+  },
+  {
+    "clientid": 100741,
+    "audiogramid": 100688,
+    "date": "2013-10-21"
+  },
+  {
+    "clientid": 100743,
+    "audiogramid": 100690,
+    "date": "2015-01-23"
+  },
+  {
+    "clientid": 100745,
+    "audiogramid": 100692,
+    "date": "2014-04-22"
+  },
+  {
+    "clientid": 100746,
+    "audiogramid": 100693,
+    "date": "2014-08-27"
+  },
+  {
+    "clientid": 100752,
+    "audiogramid": 100699,
+    "date": "2014-12-02"
+  },
+  {
+    "clientid": 100753,
+    "audiogramid": 100700,
+    "date": "2015-02-06"
+  },
+  {
+    "clientid": 100754,
+    "audiogramid": 100701,
+    "date": "2014-03-27"
+  },
+  {
+    "clientid": 100755,
+    "audiogramid": 100702,
+    "date": "2014-05-14"
+  },
+  {
+    "clientid": 100756,
+    "audiogramid": 100703,
+    "date": "2014-12-02"
+  },
+  {
+    "clientid": 100758,
+    "audiogramid": 100705,
+    "date": "2015-02-06"
+  },
+  {
+    "clientid": 100759,
+    "audiogramid": 100706,
+    "date": "2014-09-04"
+  },
+  {
+    "clientid": 100760,
+    "audiogramid": 100707,
+    "date": "2014-05-12"
+  },
+  {
+    "clientid": 100761,
+    "audiogramid": 100708,
+    "date": "2014-06-20"
+  },
+  {
+    "clientid": 100763,
+    "audiogramid": 100710,
+    "date": "2014-09-24"
+  },
+  {
+    "clientid": 100764,
+    "audiogramid": 100711,
+    "date": "2014-08-18"
+  },
+  {
+    "clientid": 100765,
+    "audiogramid": 100712,
+    "date": "2013-09-17"
+  },
+  {
+    "clientid": 100767,
+    "audiogramid": 100714,
+    "date": "2014-05-13"
+  },
+  {
+    "clientid": 100773,
+    "audiogramid": 100720,
+    "date": "2014-11-07"
+  },
+  {
+    "clientid": 100774,
+    "audiogramid": 100721,
+    "date": "2014-07-01"
+  },
+  {
+    "clientid": 100775,
+    "audiogramid": 100722,
+    "date": "2014-08-06"
+  },
+  {
+    "clientid": 100776,
+    "audiogramid": 100723,
+    "date": "2014-07-29"
+  },
+  {
+    "clientid": 100777,
+    "audiogramid": 100724,
+    "date": "2014-11-11"
+  },
+  {
+    "clientid": 100779,
+    "audiogramid": 100726,
+    "date": "2014-08-08"
+  },
+  {
+    "clientid": 100780,
+    "audiogramid": 100727,
+    "date": "2014-10-15"
+  },
+  {
+    "clientid": 100783,
+    "audiogramid": 100730,
+    "date": "2014-09-03"
+  },
+  {
+    "clientid": 100785,
+    "audiogramid": 100732,
+    "date": "2014-12-17"
+  },
+  {
+    "clientid": 100787,
+    "audiogramid": 100734,
+    "date": "2015-03-03"
+  },
+  {
+    "clientid": 100788,
+    "audiogramid": 100735,
+    "date": "2014-03-19"
+  },
+  {
+    "clientid": 100789,
+    "audiogramid": 100736,
+    "date": "2014-08-20"
+  },
+  {
+    "clientid": 100790,
+    "audiogramid": 100737,
+    "date": "2014-01-17"
+  },
+  {
+    "clientid": 100792,
+    "audiogramid": 100739,
+    "date": "2014-09-22"
+  },
+  {
+    "clientid": 100795,
+    "audiogramid": 100742,
+    "date": "2014-02-10"
+  },
+  {
+    "clientid": 100799,
+    "audiogramid": 100746,
+    "date": "2014-11-18"
+  },
+  {
+    "clientid": 100800,
+    "audiogramid": 100747,
+    "date": "2014-09-24"
+  },
+  {
+    "clientid": 100802,
+    "audiogramid": 100749,
+    "date": "2014-03-07"
+  },
+  {
+    "clientid": 100806,
+    "audiogramid": 100753,
+    "date": "2014-12-05"
+  },
+  {
+    "clientid": 100807,
+    "audiogramid": 100754,
+    "date": "2014-08-19"
+  },
+  {
+    "clientid": 100808,
+    "audiogramid": 100755,
+    "date": "2014-01-29"
+  },
+  {
+    "clientid": 100809,
+    "audiogramid": 100756,
+    "date": "2013-08-27"
+  },
+  {
+    "clientid": 100810,
+    "audiogramid": 100757,
+    "date": "2014-01-17"
+  },
+  {
+    "clientid": 100813,
+    "audiogramid": 100760,
+    "date": "2014-12-11"
+  },
+  {
+    "clientid": 100814,
+    "audiogramid": 100761,
+    "date": "2014-11-21"
+  },
+  {
+    "clientid": 100815,
+    "audiogramid": 100762,
+    "date": "2014-09-04"
+  },
+  {
+    "clientid": 100816,
+    "audiogramid": 100763,
+    "date": "2014-01-14"
+  },
+  {
+    "clientid": 100817,
+    "audiogramid": 100764,
+    "date": "2014-11-11"
+  },
+  {
+    "clientid": 100818,
+    "audiogramid": 100765,
+    "date": "2014-08-20"
+  },
+  {
+    "clientid": 100819,
+    "audiogramid": 100766,
+    "date": "2014-08-28"
+  },
+  {
+    "clientid": 100820,
+    "audiogramid": 100767,
+    "date": "2015-03-10"
+  },
+  {
+    "clientid": 100824,
+    "audiogramid": 100771,
+    "date": "2014-05-16"
+  },
+  {
+    "clientid": 100826,
+    "audiogramid": 100773,
+    "date": "2014-04-16"
+  },
+  {
+    "clientid": 100828,
+    "audiogramid": 100775,
+    "date": "2014-04-04"
+  },
+  {
+    "clientid": 100829,
+    "audiogramid": 100776,
+    "date": "2014-11-04"
+  },
+  {
+    "clientid": 100831,
+    "audiogramid": 100778,
+    "date": "2014-08-21"
+  },
+  {
+    "clientid": 100832,
+    "audiogramid": 100779,
+    "date": "2014-11-07"
+  },
+  {
+    "clientid": 100834,
+    "audiogramid": 100781,
+    "date": "2014-08-06"
+  },
+  {
+    "clientid": 100835,
+    "audiogramid": 100782,
+    "date": "2014-04-04"
+  },
+  {
+    "clientid": 100836,
+    "audiogramid": 100783,
+    "date": "2014-01-20"
+  },
+  {
+    "clientid": 100837,
+    "audiogramid": 100784,
+    "date": "2014-04-23"
+  },
+  {
+    "clientid": 100838,
+    "audiogramid": 100785,
+    "date": "2014-04-07"
+  },
+  {
+    "clientid": 100839,
+    "audiogramid": 100786,
+    "date": "2014-08-18"
+  },
+  {
+    "clientid": 100842,
+    "audiogramid": 100788,
+    "date": "2014-06-02"
+  },
+  {
+    "clientid": 100845,
+    "audiogramid": 100790,
+    "date": "2014-04-14"
+  },
+  {
+    "clientid": 100847,
+    "audiogramid": 100792,
+    "date": "2014-04-14"
+  },
+  {
+    "clientid": 100848,
+    "audiogramid": 100793,
+    "date": "2014-01-24"
+  },
+  {
+    "clientid": 100851,
+    "audiogramid": 100796,
+    "date": "2014-06-17"
+  },
+  {
+    "clientid": 100853,
+    "audiogramid": 100797,
+    "date": "2014-01-14"
+  },
+  {
+    "clientid": 100854,
+    "audiogramid": 100798,
+    "date": "2014-04-28"
+  },
+  {
+    "clientid": 100856,
+    "audiogramid": 100800,
+    "date": "2014-04-08"
+  },
+  {
+    "clientid": 100857,
+    "audiogramid": 100801,
+    "date": "2015-03-05"
+  },
+  {
+    "clientid": 100858,
+    "audiogramid": 100802,
+    "date": "2013-09-10"
+  },
+  {
+    "clientid": 100860,
+    "audiogramid": 100804,
+    "date": "2015-04-09"
+  },
+  {
+    "clientid": 100861,
+    "audiogramid": 100805,
+    "date": "2014-05-12"
+  },
+  {
+    "clientid": 100864,
+    "audiogramid": 100808,
+    "date": "2014-05-13"
+  },
+  {
+    "clientid": 100865,
+    "audiogramid": 100809,
+    "date": "2014-05-19"
+  },
+  {
+    "clientid": 100866,
+    "audiogramid": 100810,
+    "date": "2014-07-01"
+  },
+  {
+    "clientid": 100867,
+    "audiogramid": 100811,
+    "date": "2014-01-10"
+  },
+  {
+    "clientid": 100868,
+    "audiogramid": 100812,
+    "date": "2014-01-28"
+  },
+  {
+    "clientid": 100872,
+    "audiogramid": 100816,
+    "date": "2014-01-17"
+  },
+  {
+    "clientid": 100873,
+    "audiogramid": 100817,
+    "date": "2014-09-02"
+  },
+  {
+    "clientid": 100874,
+    "audiogramid": 100818,
+    "date": "2015-03-12"
+  },
+  {
+    "clientid": 100875,
+    "audiogramid": 100819,
+    "date": "2014-01-23"
+  },
+  {
+    "clientid": 100876,
+    "audiogramid": 100820,
+    "date": "2014-03-27"
+  },
+  {
+    "clientid": 100880,
+    "audiogramid": 100824,
+    "date": "2014-01-08"
+  },
+  {
+    "clientid": 100881,
+    "audiogramid": 100825,
+    "date": "2014-11-04"
+  },
+  {
+    "clientid": 100883,
+    "audiogramid": 100826,
+    "date": "2014-11-21"
+  },
+  {
+    "clientid": 100886,
+    "audiogramid": 100829,
+    "date": "2014-01-06"
+  },
+  {
+    "clientid": 100887,
+    "audiogramid": 100830,
+    "date": "2014-11-13"
+  },
+  {
+    "clientid": 100888,
+    "audiogramid": 100831,
+    "date": "2014-04-10"
+  },
+  {
+    "clientid": 100898,
+    "audiogramid": 100840,
+    "date": "2014-08-06"
+  },
+  {
+    "clientid": 100901,
+    "audiogramid": 100843,
+    "date": "2014-01-14"
+  },
+  {
+    "clientid": 100902,
+    "audiogramid": 100844,
+    "date": "2014-01-17"
+  },
+  {
+    "clientid": 100903,
+    "audiogramid": 100845,
+    "date": "2015-03-23"
+  },
+  {
+    "clientid": 100904,
+    "audiogramid": 100846,
+    "date": "2014-07-21"
+  },
+  {
+    "clientid": 100912,
+    "audiogramid": 100853,
+    "date": "2014-05-26"
+  },
+  {
+    "clientid": 100913,
+    "audiogramid": 100854,
+    "date": "2014-04-16"
+  },
+  {
+    "clientid": 100915,
+    "audiogramid": 100856,
+    "date": "2014-04-03"
+  },
+  {
+    "clientid": 100916,
+    "audiogramid": 100857,
+    "date": "2014-04-03"
+  },
+  {
+    "clientid": 100917,
+    "audiogramid": 100858,
+    "date": "2013-08-27"
+  },
+  {
+    "clientid": 100919,
+    "audiogramid": 100860,
+    "date": "2014-07-28"
+  },
+  {
+    "clientid": 100920,
+    "audiogramid": 100861,
+    "date": "2014-02-11"
+  },
+  {
+    "clientid": 100921,
+    "audiogramid": 100862,
+    "date": "2013-09-02"
+  },
+  {
+    "clientid": 100923,
+    "audiogramid": 100864,
+    "date": "2014-04-09"
+  },
+  {
+    "clientid": 100925,
+    "audiogramid": 100866,
+    "date": "2014-04-01"
+  },
+  {
+    "clientid": 100926,
+    "audiogramid": 100867,
+    "date": "2013-10-02"
+  },
+  {
+    "clientid": 100932,
+    "audiogramid": 100873,
+    "date": "2014-06-23"
+  },
+  {
+    "clientid": 100935,
+    "audiogramid": 100876,
+    "date": "2014-07-11"
+  },
+  {
+    "clientid": 100939,
+    "audiogramid": 100880,
+    "date": "2015-01-27"
+  },
+  {
+    "clientid": 100947,
+    "audiogramid": 100888,
+    "date": "2014-04-01"
+  },
+  {
+    "clientid": 100949,
+    "audiogramid": 100890,
+    "date": "2014-07-23"
+  },
+  {
+    "clientid": 100950,
+    "audiogramid": 100891,
+    "date": "2014-08-14"
+  },
+  {
+    "clientid": 100957,
+    "audiogramid": 100898,
+    "date": "2014-01-07"
+  },
+  {
+    "clientid": 100959,
+    "audiogramid": 100900,
+    "date": "2014-11-19"
+  },
+  {
+    "clientid": 100965,
+    "audiogramid": 100906,
+    "date": "2013-10-01"
+  },
+  {
+    "clientid": 100967,
+    "audiogramid": 100908,
+    "date": "2014-07-25"
+  },
+  {
+    "clientid": 100972,
+    "audiogramid": 100913,
+    "date": "2014-02-12"
+  },
+  {
+    "clientid": 100977,
+    "audiogramid": 100918,
+    "date": "2014-01-27"
+  },
+  {
+    "clientid": 100978,
+    "audiogramid": 100919,
+    "date": "2014-04-15"
+  },
+  {
+    "clientid": 100979,
+    "audiogramid": 100920,
+    "date": "2014-07-24"
+  },
+  {
+    "clientid": 100980,
+    "audiogramid": 100921,
+    "date": "2015-02-26"
+  },
+  {
+    "clientid": 100981,
+    "audiogramid": 100922,
+    "date": "2013-11-07"
+  },
+  {
+    "clientid": 100982,
+    "audiogramid": 100923,
+    "date": "2014-02-11"
+  },
+  {
+    "clientid": 100983,
+    "audiogramid": 100924,
+    "date": "2015-03-05"
+  },
+  {
+    "clientid": 100984,
+    "audiogramid": 100925,
+    "date": "2014-06-24"
+  },
+  {
+    "clientid": 100985,
+    "audiogramid": 100926,
+    "date": "2014-06-16"
+  },
+  {
+    "clientid": 100990,
+    "audiogramid": 100931,
+    "date": "2015-01-13"
+  },
+  {
+    "clientid": 100992,
+    "audiogramid": 100933,
+    "date": "2014-04-30"
+  },
+  {
+    "clientid": 100996,
+    "audiogramid": 100937,
+    "date": "2014-12-19"
+  },
+  {
+    "clientid": 100997,
+    "audiogramid": 100938,
+    "date": "2014-07-21"
+  },
+  {
+    "clientid": 100998,
+    "audiogramid": 100939,
+    "date": "2014-06-30"
+  },
+  {
+    "clientid": 101006,
+    "audiogramid": 100947,
+    "date": "2015-02-11"
+  },
+  {
+    "clientid": 101007,
+    "audiogramid": 100948,
+    "date": "2014-09-25"
+  },
+  {
+    "clientid": 101008,
+    "audiogramid": 100949,
+    "date": "2014-07-07"
+  },
+  {
+    "clientid": 101010,
+    "audiogramid": 100951,
+    "date": "2014-10-30"
+  },
+  {
+    "clientid": 101016,
+    "audiogramid": 100957,
+    "date": "2014-07-29"
+  },
+  {
+    "clientid": 101018,
+    "audiogramid": 100959,
+    "date": "2014-08-14"
+  },
+  {
+    "clientid": 101020,
+    "audiogramid": 100961,
+    "date": "2014-07-21"
+  },
+  {
+    "clientid": 101022,
+    "audiogramid": 100963,
+    "date": "2014-08-12"
+  },
+  {
+    "clientid": 101023,
+    "audiogramid": 100964,
+    "date": "2014-01-06"
+  },
+  {
+    "clientid": 101024,
+    "audiogramid": 100965,
+    "date": "2014-05-12"
+  },
+  {
+    "clientid": 101025,
+    "audiogramid": 100966,
+    "date": "2014-05-05"
+  },
+  {
+    "clientid": 101026,
+    "audiogramid": 100967,
+    "date": "2014-05-21"
+  },
+  {
+    "clientid": 101027,
+    "audiogramid": 100968,
+    "date": "2014-09-22"
+  },
+  {
+    "clientid": 101028,
+    "audiogramid": 100969,
+    "date": "2014-11-21"
+  },
+  {
+    "clientid": 101030,
+    "audiogramid": 100971,
+    "date": "2014-03-19"
+  },
+  {
+    "clientid": 101031,
+    "audiogramid": 100972,
+    "date": "2014-01-15"
+  },
+  {
+    "clientid": 101032,
+    "audiogramid": 100973,
+    "date": "2014-07-16"
+  },
+  {
+    "clientid": 101033,
+    "audiogramid": 100974,
+    "date": "2014-10-10"
+  },
+  {
+    "clientid": 101035,
+    "audiogramid": 100976,
+    "date": "2014-08-04"
+  },
+  {
+    "clientid": 101036,
+    "audiogramid": 100977,
+    "date": "2014-08-05"
+  },
+  {
+    "clientid": 101038,
+    "audiogramid": 100979,
+    "date": "2014-12-05"
+  },
+  {
+    "clientid": 101040,
+    "audiogramid": 100981,
+    "date": "2014-11-04"
+  },
+  {
+    "clientid": 101042,
+    "audiogramid": 100983,
+    "date": "2014-03-28"
+  },
+  {
+    "clientid": 101043,
+    "audiogramid": 100984,
+    "date": "2014-10-01"
+  },
+  {
+    "clientid": 101045,
+    "audiogramid": 100986,
+    "date": "2014-11-28"
+  },
+  {
+    "clientid": 101046,
+    "audiogramid": 100987,
+    "date": "2014-09-22"
+  },
+  {
+    "clientid": 101047,
+    "audiogramid": 100988,
+    "date": "2014-10-10"
+  },
+  {
+    "clientid": 101049,
+    "audiogramid": 100990,
+    "date": "2014-05-05"
+  },
+  {
+    "clientid": 101050,
+    "audiogramid": 100991,
+    "date": "2014-11-18"
+  },
+  {
+    "clientid": 101051,
+    "audiogramid": 100992,
+    "date": "2014-12-05"
+  },
+  {
+    "clientid": 101053,
+    "audiogramid": 100994,
+    "date": "2014-10-24"
+  },
+  {
+    "clientid": 101055,
+    "audiogramid": 100996,
+    "date": "2014-09-01"
+  },
+  {
+    "clientid": 101056,
+    "audiogramid": 100997,
+    "date": "2015-02-09"
+  },
+  {
+    "clientid": 101057,
+    "audiogramid": 100998,
+    "date": "2013-09-13"
+  },
+  {
+    "clientid": 101058,
+    "audiogramid": 100999,
+    "date": "2014-11-07"
+  },
+  {
+    "clientid": 101062,
+    "audiogramid": 101002,
+    "date": "2014-07-21"
+  },
+  {
+    "clientid": 101063,
+    "audiogramid": 101003,
+    "date": "2014-06-24"
+  },
+  {
+    "clientid": 101065,
+    "audiogramid": 101005,
+    "date": "2014-09-02"
+  },
+  {
+    "clientid": 101068,
+    "audiogramid": 101008,
+    "date": "2014-08-28"
+  },
+  {
+    "clientid": 101071,
+    "audiogramid": 101011,
+    "date": "2014-12-09"
+  },
+  {
+    "clientid": 101076,
+    "audiogramid": 101016,
+    "date": "2014-01-23"
+  },
+  {
+    "clientid": 101077,
+    "audiogramid": 101017,
+    "date": "2014-09-03"
+  },
+  {
+    "clientid": 101079,
+    "audiogramid": 101019,
+    "date": "2014-11-07"
+  },
+  {
+    "clientid": 101081,
+    "audiogramid": 101021,
+    "date": "2014-01-14"
+  },
+  {
+    "clientid": 101083,
+    "audiogramid": 101023,
+    "date": "2014-11-03"
+  },
+  {
+    "clientid": 101084,
+    "audiogramid": 101024,
+    "date": "2014-12-09"
+  },
+  {
+    "clientid": 101085,
+    "audiogramid": 101025,
+    "date": "2014-09-25"
+  },
+  {
+    "clientid": 101086,
+    "audiogramid": 101026,
+    "date": "2014-11-07"
+  },
+  {
+    "clientid": 101088,
+    "audiogramid": 101028,
+    "date": "2014-10-28"
+  },
+  {
+    "clientid": 101090,
+    "audiogramid": 101030,
+    "date": "2014-08-26"
+  },
+  {
+    "clientid": 101091,
+    "audiogramid": 101031,
+    "date": "2014-10-01"
+  },
+  {
+    "clientid": 101095,
+    "audiogramid": 101035,
+    "date": "2014-08-04"
+  },
+  {
+    "clientid": 101096,
+    "audiogramid": 101036,
+    "date": "2014-09-04"
+  },
+  {
+    "clientid": 101097,
+    "audiogramid": 101037,
+    "date": "2013-11-18"
+  },
+  {
+    "clientid": 101098,
+    "audiogramid": 101038,
+    "date": "2013-11-05"
+  },
+  {
+    "clientid": 101099,
+    "audiogramid": 101039,
+    "date": "2014-10-08"
+  },
+  {
+    "clientid": 101103,
+    "audiogramid": 101043,
+    "date": "2014-02-04"
+  },
+  {
+    "clientid": 101104,
+    "audiogramid": 101044,
+    "date": "2014-01-14"
+  },
+  {
+    "clientid": 101107,
+    "audiogramid": 101047,
+    "date": "2014-08-26"
+  },
+  {
+    "clientid": 101108,
+    "audiogramid": 101048,
+    "date": "2014-07-21"
+  },
+  {
+    "clientid": 101109,
+    "audiogramid": 101049,
+    "date": "2014-01-06"
+  },
+  {
+    "clientid": 101110,
+    "audiogramid": 101050,
+    "date": "2014-05-20"
+  },
+  {
+    "clientid": 101112,
+    "audiogramid": 101052,
+    "date": "2013-12-30"
+  },
+  {
+    "clientid": 101116,
+    "audiogramid": 101054,
+    "date": "2014-09-23"
+  },
+  {
+    "clientid": 101117,
+    "audiogramid": 101055,
+    "date": "2013-10-02"
+  },
+  {
+    "clientid": 101121,
+    "audiogramid": 101059,
+    "date": "2014-11-17"
+  },
+  {
+    "clientid": 101122,
+    "audiogramid": 101060,
+    "date": "2014-12-09"
+  },
+  {
+    "clientid": 101123,
+    "audiogramid": 101061,
+    "date": "2015-03-23"
+  },
+  {
+    "clientid": 101132,
+    "audiogramid": 101069,
+    "date": "2014-09-02"
+  },
+  {
+    "clientid": 101133,
+    "audiogramid": 101070,
+    "date": "2014-09-19"
+  },
+  {
+    "clientid": 101147,
+    "audiogramid": 101083,
+    "date": "2014-12-16"
+  },
+  {
+    "clientid": 101153,
+    "audiogramid": 101089,
+    "date": "2014-09-01"
+  },
+  {
+    "clientid": 101157,
+    "audiogramid": 101092,
+    "date": "2014-11-07"
+  },
+  {
+    "clientid": 101159,
+    "audiogramid": 101094,
+    "date": "2014-12-08"
+  },
+  {
+    "clientid": 101160,
+    "audiogramid": 101095,
+    "date": "2015-02-05"
+  },
+  {
+    "clientid": 101162,
+    "audiogramid": 101097,
+    "date": "2014-09-02"
+  },
+  {
+    "clientid": 101165,
+    "audiogramid": 101100,
+    "date": "2015-03-13"
+  },
+  {
+    "clientid": 101166,
+    "audiogramid": 101101,
+    "date": "2013-09-23"
+  },
+  {
+    "clientid": 101167,
+    "audiogramid": 101102,
+    "date": "2013-10-01"
+  },
+  {
+    "clientid": 101169,
+    "audiogramid": 101104,
+    "date": "2013-10-29"
+  },
+  {
+    "clientid": 101170,
+    "audiogramid": 101105,
+    "date": "2013-10-29"
+  },
+  {
+    "clientid": 101171,
+    "audiogramid": 101106,
+    "date": "2013-10-24"
+  },
+  {
+    "clientid": 101173,
+    "audiogramid": 101108,
+    "date": "2013-11-11"
+  },
+  {
+    "clientid": 101175,
+    "audiogramid": 101110,
+    "date": "2013-11-19"
+  },
+  {
+    "clientid": 101176,
+    "audiogramid": 101111,
+    "date": "2015-03-04"
+  },
+  {
+    "clientid": 101177,
+    "audiogramid": 101112,
+    "date": "2013-11-18"
+  },
+  {
+    "clientid": 101178,
+    "audiogramid": 101113,
+    "date": "2013-11-18"
+  },
+  {
+    "clientid": 101179,
+    "audiogramid": 101114,
+    "date": "2013-12-09"
+  },
+  {
+    "clientid": 101180,
+    "audiogramid": 101115,
+    "date": "2013-11-28"
+  },
+  {
+    "clientid": 101181,
+    "audiogramid": 101116,
+    "date": "2013-11-19"
+  },
+  {
+    "clientid": 101183,
+    "audiogramid": 101118,
+    "date": "2013-11-26"
+  },
+  {
+    "clientid": 101185,
+    "audiogramid": 101120,
+    "date": "2013-12-02"
+  },
+  {
+    "clientid": 101186,
+    "audiogramid": 101121,
+    "date": "2013-12-06"
+  },
+  {
+    "clientid": 101187,
+    "audiogramid": 101122,
+    "date": "2013-12-18"
+  },
+  {
+    "clientid": 101189,
+    "audiogramid": 101124,
+    "date": "2014-02-10"
+  },
+  {
+    "clientid": 101191,
+    "audiogramid": 101125,
+    "date": "2014-01-27"
+  },
+  {
+    "clientid": 101192,
+    "audiogramid": 101126,
+    "date": "2014-03-10"
+  },
+  {
+    "clientid": 101194,
+    "audiogramid": 101127,
+    "date": "2015-03-06"
+  },
+  {
+    "clientid": 101195,
+    "audiogramid": 101128,
+    "date": "2014-03-25"
+  },
+  {
+    "clientid": 101197,
+    "audiogramid": 101130,
+    "date": "2014-04-29"
+  },
+  {
+    "clientid": 101200,
+    "audiogramid": 101133,
+    "date": "2014-05-13"
+  },
+  {
+    "clientid": 101201,
+    "audiogramid": 101134,
+    "date": "2014-11-10"
+  },
+  {
+    "clientid": 101202,
+    "audiogramid": 101135,
+    "date": "2014-04-17"
+  },
+  {
+    "clientid": 101204,
+    "audiogramid": 101137,
+    "date": "2015-04-02"
+  },
+  {
+    "clientid": 101210,
+    "audiogramid": 101141,
+    "date": "2014-06-02"
+  },
+  {
+    "clientid": 101212,
+    "audiogramid": 101143,
+    "date": "2014-07-01"
+  },
+  {
+    "clientid": 101213,
+    "audiogramid": 101144,
+    "date": "2014-08-06"
+  },
+  {
+    "clientid": 101214,
+    "audiogramid": 101145,
+    "date": "2014-07-15"
+  },
+  {
+    "clientid": 101215,
+    "audiogramid": 101146,
+    "date": "2014-07-08"
+  },
+  {
+    "clientid": 101217,
+    "audiogramid": 101148,
+    "date": "2014-08-08"
+  },
+  {
+    "clientid": 101218,
+    "audiogramid": 101149,
+    "date": "2014-08-01"
+  },
+  {
+    "clientid": 101219,
+    "audiogramid": 101150,
+    "date": "2014-08-04"
+  },
+  {
+    "clientid": 101220,
+    "audiogramid": 101151,
+    "date": "2014-08-18"
+  },
+  {
+    "clientid": 101222,
+    "audiogramid": 101153,
+    "date": "2014-08-13"
+  },
+  {
+    "clientid": 101223,
+    "audiogramid": 101154,
+    "date": "2014-08-11"
+  },
+  {
+    "clientid": 101224,
+    "audiogramid": 101155,
+    "date": "2014-08-12"
+  },
+  {
+    "clientid": 101225,
+    "audiogramid": 101156,
+    "date": "2014-08-11"
+  },
+  {
+    "clientid": 101226,
+    "audiogramid": 101157,
+    "date": "2014-08-13"
+  },
+  {
+    "clientid": 101228,
+    "audiogramid": 101158,
+    "date": "2014-08-13"
+  },
+  {
+    "clientid": 101229,
+    "audiogramid": 101159,
+    "date": "2014-08-14"
+  },
+  {
+    "clientid": 101230,
+    "audiogramid": 101160,
+    "date": "2014-08-19"
+  },
+  {
+    "clientid": 101233,
+    "audiogramid": 101163,
+    "date": "2014-09-23"
+  },
+  {
+    "clientid": 101234,
+    "audiogramid": 101164,
+    "date": "2015-02-23"
+  },
+  {
+    "clientid": 101235,
+    "audiogramid": 101165,
+    "date": "2014-09-25"
+  },
+  {
+    "clientid": 101236,
+    "audiogramid": 101166,
+    "date": "2014-09-22"
+  },
+  {
+    "clientid": 101238,
+    "audiogramid": 101167,
+    "date": "2014-09-29"
+  },
+  {
+    "clientid": 101240,
+    "audiogramid": 101169,
+    "date": "2014-10-29"
+  },
+  {
+    "clientid": 101241,
+    "audiogramid": 101170,
+    "date": "2014-11-14"
+  },
+  {
+    "clientid": 101242,
+    "audiogramid": 101171,
+    "date": "2014-11-21"
+  },
+  {
+    "clientid": 101243,
+    "audiogramid": 101172,
+    "date": "2014-11-21"
+  },
+  {
+    "clientid": 101244,
+    "audiogramid": 101173,
+    "date": "2015-03-19"
+  },
+  {
+    "clientid": 101245,
+    "audiogramid": 101174,
+    "date": "2014-10-20"
+  },
+  {
+    "clientid": 101246,
+    "audiogramid": 101175,
+    "date": "2014-11-20"
+  },
+  {
+    "clientid": 101247,
+    "audiogramid": 101176,
+    "date": "2015-03-10"
+  },
+  {
+    "clientid": 101248,
+    "audiogramid": 101177,
+    "date": "2014-10-29"
+  },
+  {
+    "clientid": 101249,
+    "audiogramid": 101178,
+    "date": "2014-10-24"
+  },
+  {
+    "clientid": 101250,
+    "audiogramid": 101179,
+    "date": "2014-10-31"
+  },
+  {
+    "clientid": 101252,
+    "audiogramid": 101180,
+    "date": "2014-10-30"
+  },
+  {
+    "clientid": 101254,
+    "audiogramid": 101182,
+    "date": "2014-11-21"
+  },
+  {
+    "clientid": 101256,
+    "audiogramid": 101184,
+    "date": "2014-12-05"
+  },
+  {
+    "clientid": 101261,
+    "audiogramid": 101188,
+    "date": "2014-11-28"
+  },
+  {
+    "clientid": 101262,
+    "audiogramid": 101189,
+    "date": "2014-12-05"
+  },
+  {
+    "clientid": 101263,
+    "audiogramid": 101190,
+    "date": "2015-01-19"
+  },
+  {
+    "clientid": 101265,
+    "audiogramid": 101191,
+    "date": "2015-02-23"
+  },
+  {
+    "clientid": 101267,
+    "audiogramid": 101193,
+    "date": "2015-02-03"
+  },
+  {
+    "clientid": 101268,
+    "audiogramid": 101194,
+    "date": "2015-02-23"
+  },
+  {
+    "clientid": 101269,
+    "audiogramid": 101195,
+    "date": "2015-02-24"
+  },
+  {
+    "clientid": 101270,
+    "audiogramid": 101196,
+    "date": "2015-02-23"
+  },
+  {
+    "clientid": 101271,
+    "audiogramid": 101197,
+    "date": "2015-03-16"
+  },
+  {
+    "clientid": 101272,
+    "audiogramid": 101198,
+    "date": "2015-03-09"
+  }
+]
