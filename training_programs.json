@@ -1,0 +1,3925 @@
+[
+  {
+    "userid": 100000,
+    "audiogramid": 100000,
+    "date": "2014-04-15",
+    "ear_side": "left",
+    "loss_profile": "mixed_loss",
+    "features": {
+      "band_avgs_dbhl": {
+        "low": 10.0,
+        "mid": 35.0,
+        "high": 40.0
+      },
+      "band_severity": {
+        "low": "normal",
+        "mid": "mild",
+        "high": "mild"
+      },
+      "slope_high_minus_mid": 5.0,
+      "asymmetry_db": 15.833333333333334,
+      "notch_4k": false
+    },
+    "module_plan": {
+      "SPEECH_IN_NOISE": {
+        "weight": 2,
+        "start_params": {
+          "snr_db": 10.0,
+          "noise_type": "speech_shaped"
+        }
+      },
+      "CONSONANT_ID": {
+        "weight": 1,
+        "start_params": {
+          "level": 3
+        }
+      },
+      "HF_FRICATIVES": {
+        "weight": 2,
+        "start_params": {
+          "tier": "medium",
+          "talker_variability": "low"
+        }
+      }
+    },
+    "schedule": [
+      {
+        "week": 1,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "medium",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "medium",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "medium",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "medium",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "medium",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 6,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "medium",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "medium",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "medium",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "medium",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "medium",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "medium",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "medium",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "medium",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userid": 100000,
+    "audiogramid": 100000,
+    "date": "2014-04-15",
+    "ear_side": "right",
+    "loss_profile": "mixed_loss",
+    "features": {
+      "band_avgs_dbhl": {
+        "low": 27.5,
+        "mid": 50.0,
+        "high": 55.0
+      },
+      "band_severity": {
+        "low": "mild",
+        "mid": "moderate",
+        "high": "moderate"
+      },
+      "slope_high_minus_mid": 5.0,
+      "asymmetry_db": 15.833333333333334,
+      "notch_4k": false
+    },
+    "module_plan": {
+      "SPEECH_IN_NOISE": {
+        "weight": 2,
+        "start_params": {
+          "snr_db": 10.0,
+          "noise_type": "speech_shaped"
+        }
+      },
+      "CONSONANT_ID": {
+        "weight": 2,
+        "start_params": {
+          "level": 2
+        }
+      },
+      "HF_FRICATIVES": {
+        "weight": 3,
+        "start_params": {
+          "tier": "easy",
+          "talker_variability": "low"
+        }
+      },
+      "VOWEL_CLARITY": {
+        "weight": 2,
+        "start_params": {
+          "level": 1
+        }
+      },
+      "TEMPORAL_GAPS": {
+        "weight": 1,
+        "start_params": {
+          "gap_ms": 20
+        }
+      }
+    },
+    "schedule": [
+      {
+        "week": 1,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "VOWEL_CLARITY",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 2
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 2
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "VOWEL_CLARITY",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 2
+            }
+          },
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 6,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 6,
+            "params": {
+              "level": 2
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 2
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "VOWEL_CLARITY",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 2
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 2
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "VOWEL_CLARITY",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 2
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 2
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "VOWEL_CLARITY",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 2
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "VOWEL_CLARITY",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "VOWEL_CLARITY",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userid": 100003,
+    "audiogramid": 100002,
+    "date": "2014-07-16",
+    "ear_side": "left",
+    "loss_profile": "sloping_high_frequency",
+    "features": {
+      "band_avgs_dbhl": {
+        "low": 10.0,
+        "mid": 17.5,
+        "high": 55.0
+      },
+      "band_severity": {
+        "low": "normal",
+        "mid": "normal",
+        "high": "moderate"
+      },
+      "slope_high_minus_mid": 37.5,
+      "asymmetry_db": 30.0,
+      "notch_4k": false
+    },
+    "module_plan": {
+      "SPEECH_IN_NOISE": {
+        "weight": 2,
+        "start_params": {
+          "snr_db": 10.0,
+          "noise_type": "speech_shaped"
+        }
+      },
+      "CONSONANT_ID": {
+        "weight": 2,
+        "start_params": {
+          "level": 3
+        }
+      },
+      "HF_FRICATIVES": {
+        "weight": 3,
+        "start_params": {
+          "tier": "easy",
+          "talker_variability": "low"
+        }
+      },
+      "TEMPORAL_GAPS": {
+        "weight": 1,
+        "start_params": {
+          "gap_ms": 20
+        }
+      }
+    },
+    "schedule": [
+      {
+        "week": 1,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 6,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 6,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 6,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 6,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 6,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 6,
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userid": 100003,
+    "audiogramid": 100002,
+    "date": "2014-07-16",
+    "ear_side": "right",
+    "loss_profile": "mixed_loss",
+    "features": {
+      "band_avgs_dbhl": {
+        "low": 50.0,
+        "mid": 62.5,
+        "high": 60.0
+      },
+      "band_severity": {
+        "low": "moderate",
+        "mid": "mod_severe",
+        "high": "mod_severe"
+      },
+      "slope_high_minus_mid": -2.5,
+      "asymmetry_db": 30.0,
+      "notch_4k": false
+    },
+    "module_plan": {
+      "SPEECH_IN_NOISE": {
+        "weight": 2,
+        "start_params": {
+          "snr_db": 10.0,
+          "noise_type": "speech_shaped"
+        }
+      },
+      "CONSONANT_ID": {
+        "weight": 2,
+        "start_params": {
+          "level": 1
+        }
+      },
+      "HF_FRICATIVES": {
+        "weight": 3,
+        "start_params": {
+          "tier": "easy",
+          "talker_variability": "low"
+        }
+      },
+      "VOWEL_CLARITY": {
+        "weight": 2,
+        "start_params": {
+          "level": 1
+        }
+      },
+      "VOICING": {
+        "weight": 2,
+        "start_params": {
+          "level": 1
+        }
+      },
+      "TEMPORAL_GAPS": {
+        "weight": 1,
+        "start_params": {
+          "gap_ms": 20
+        }
+      }
+    },
+    "schedule": [
+      {
+        "week": 1,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "VOWEL_CLARITY",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 6,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "VOICING",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "VOWEL_CLARITY",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "VOICING",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "VOICING",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "VOWEL_CLARITY",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "VOICING",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 6,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "VOICING",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "VOWEL_CLARITY",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "VOICING",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "VOICING",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userid": 100005,
+    "audiogramid": 100004,
+    "date": "2014-03-28",
+    "ear_side": "left",
+    "loss_profile": "flat_loss",
+    "features": {
+      "band_avgs_dbhl": {
+        "low": 82.5,
+        "mid": 80.0,
+        "high": 90.0
+      },
+      "band_severity": {
+        "low": "severe",
+        "mid": "severe",
+        "high": "severe"
+      },
+      "slope_high_minus_mid": 10.0,
+      "asymmetry_db": 10.833333333333334,
+      "notch_4k": false
+    },
+    "module_plan": {
+      "SPEECH_IN_NOISE": {
+        "weight": 2,
+        "start_params": {
+          "snr_db": 10.0,
+          "noise_type": "speech_shaped"
+        }
+      },
+      "CONSONANT_ID": {
+        "weight": 2,
+        "start_params": {
+          "level": 1
+        }
+      },
+      "HF_FRICATIVES": {
+        "weight": 3,
+        "start_params": {
+          "tier": "easy",
+          "talker_variability": "low"
+        }
+      },
+      "VOWEL_CLARITY": {
+        "weight": 2,
+        "start_params": {
+          "level": 1
+        }
+      },
+      "VOICING": {
+        "weight": 2,
+        "start_params": {
+          "level": 1
+        }
+      },
+      "TEMPORAL_GAPS": {
+        "weight": 1,
+        "start_params": {
+          "gap_ms": 20
+        }
+      }
+    },
+    "schedule": [
+      {
+        "week": 1,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "VOWEL_CLARITY",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 6,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "VOICING",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "VOWEL_CLARITY",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "VOICING",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "VOICING",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "VOWEL_CLARITY",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "VOICING",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 6,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "VOICING",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "VOWEL_CLARITY",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "VOICING",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "VOICING",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userid": 100005,
+    "audiogramid": 100004,
+    "date": "2014-03-28",
+    "ear_side": "right",
+    "loss_profile": "sloping_high_frequency",
+    "features": {
+      "band_avgs_dbhl": {
+        "low": 65.0,
+        "mid": 65.0,
+        "high": 90.0
+      },
+      "band_severity": {
+        "low": "mod_severe",
+        "mid": "mod_severe",
+        "high": "severe"
+      },
+      "slope_high_minus_mid": 25.0,
+      "asymmetry_db": 10.833333333333334,
+      "notch_4k": false
+    },
+    "module_plan": {
+      "SPEECH_IN_NOISE": {
+        "weight": 2,
+        "start_params": {
+          "snr_db": 10.0,
+          "noise_type": "speech_shaped"
+        }
+      },
+      "CONSONANT_ID": {
+        "weight": 2,
+        "start_params": {
+          "level": 1
+        }
+      },
+      "HF_FRICATIVES": {
+        "weight": 3,
+        "start_params": {
+          "tier": "easy",
+          "talker_variability": "low"
+        }
+      },
+      "VOWEL_CLARITY": {
+        "weight": 2,
+        "start_params": {
+          "level": 1
+        }
+      },
+      "VOICING": {
+        "weight": 2,
+        "start_params": {
+          "level": 1
+        }
+      },
+      "TEMPORAL_GAPS": {
+        "weight": 1,
+        "start_params": {
+          "gap_ms": 20
+        }
+      }
+    },
+    "schedule": [
+      {
+        "week": 1,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "VOWEL_CLARITY",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 6,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "VOICING",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "VOWEL_CLARITY",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "VOICING",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "VOICING",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "VOWEL_CLARITY",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "VOICING",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 6,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "VOICING",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "VOWEL_CLARITY",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 2,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "VOICING",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 1,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 2,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 6,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 3,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 4,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "TEMPORAL_GAPS",
+            "minutes": 2,
+            "params": {
+              "gap_ms": 20
+            }
+          },
+          {
+            "module": "CONSONANT_ID",
+            "minutes": 6,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "day": 5,
+        "session_minutes": 10,
+        "blocks": [
+          {
+            "module": "VOICING",
+            "minutes": 2,
+            "params": {
+              "level": 1
+            }
+          },
+          {
+            "module": "HF_FRICATIVES",
+            "minutes": 6,
+            "params": {
+              "tier": "easy",
+              "talker_variability": "low"
+            }
+          },
+          {
+            "module": "SPEECH_IN_NOISE",
+            "minutes": 2,
+            "params": {
+              "snr_db": 10.0,
+              "noise_type": "speech_shaped"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
